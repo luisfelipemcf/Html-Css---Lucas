@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+   .carousel .item {
+     height: 60em;
+   }
+
+   .item img {
+       position: absolute;
+       top: 0;
+       left: 0;
+       min-height: 300px;
+       opacity: 0.6;
+   }
+
+   .item .carousel-caption{
+     letter-spacing: 0.05em;
+     font-family:  "Proxima Sans Nova";
+     font-size: 5em;
+     font-weight: bold;
+     color:#000;
+     line-height: 1em;
+   }
+
+   .branco{
+     background-color: #FFF;
+   }
+
+   .cinza{
+     background-color: #000;
+   }
